@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+yfinance
+requests
+google-generativeai
+numpy
+pandas
+scikit-learn
+tensorflow
+ta
+gunicorn
